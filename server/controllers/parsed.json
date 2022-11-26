@@ -1,0 +1,332 @@
+[
+  {
+    "timestamp": null,
+    "loglevel": "",
+    "transactionId": "",
+    "err": "Not found"
+  },
+  {
+    "timestamp": null,
+    "loglevel": "    \"title\": \"SB Admin 2\"",
+    "transactionId": "B Admin 2",
+    "err": "Not found"
+  },
+  {
+    "timestamp": null,
+    "loglevel": "sb",
+    "transactionId": "artbootstrap-sb-admin-2",
+    "err": "Not found"
+  },
+  {
+    "timestamp": null,
+    "loglevel": "    \"version\": \"4.1.3\"",
+    "transactionId": "",
+    "err": "Not found"
+  },
+  {
+    "timestamp": null,
+    "loglevel": "    \"scripts\": ",
+    "transactionId": "",
+    "err": "Not found"
+  },
+  {
+    "timestamp": null,
+    "loglevel": "        \"start\": \"node_modules/.bin/gulp watch",
+    "transactionId": ": ",
+    "err": "Not found"
+  },
+  {
+    "timestamp": null,
+    "loglevel": "    }",
+    "transactionId": "",
+    "err": "Not found"
+  },
+  {
+    "timestamp": null,
+    "loglevel": "    \"description\": \"An open source Bootstrap 4 admin theme.\"",
+    "transactionId": "n",
+    "err": "Not found"
+  },
+  {
+    "timestamp": null,
+    "loglevel": "    \"keywords\": ",
+    "transactionId": " ",
+    "err": "Not found"
+  },
+  {
+    "timestamp": null,
+    "loglevel": "        \"css\"",
+    "transactionId": "",
+    "err": "Not found"
+  },
+  {
+    "timestamp": null,
+    "loglevel": "        \"sass\"",
+    "transactionId": "",
+    "err": "Not found"
+  },
+  {
+    "timestamp": null,
+    "loglevel": "        \"html\"",
+    "transactionId": "",
+    "err": "Not found"
+  },
+  {
+    "timestamp": null,
+    "loglevel": "        \"responsive\"",
+    "transactionId": "sive",
+    "err": "Not found"
+  },
+  {
+    "timestamp": null,
+    "loglevel": "        \"theme\"",
+    "transactionId": "",
+    "err": "Not found"
+  },
+  {
+    "timestamp": null,
+    "loglevel": "        \"template\"",
+    "transactionId": "te",
+    "err": "Not found"
+  },
+  {
+    "timestamp": null,
+    "loglevel": "        \"admin\"",
+    "transactionId": "",
+    "err": "Not found"
+  },
+  {
+    "timestamp": null,
+    "loglevel": "        \"app",
+    "transactionId": "",
+    "err": "Not found"
+  },
+  {
+    "timestamp": null,
+    "loglevel": "    ]",
+    "transactionId": "",
+    "err": "Not found"
+  },
+  {
+    "timestamp": null,
+    "loglevel": "admin",
+    "transactionId": " ",
+    "err": "Not found"
+  },
+  {
+    "timestamp": null,
+    "loglevel": "    \"bugs\": ",
+    "transactionId": "",
+    "err": "Not found"
+  },
+  {
+    "timestamp": null,
+    "loglevel": "sb",
+    "transactionId": "",
+    "err": "Not found"
+  },
+  {
+    "timestamp": null,
+    "loglevel": "        \"email\": \"feedback@startbootstrap.com",
+    "transactionId": ": ",
+    "err": "Not found"
+  },
+  {
+    "timestamp": null,
+    "loglevel": "    }",
+    "transactionId": "",
+    "err": "Not found"
+  },
+  {
+    "timestamp": null,
+    "loglevel": "    \"license\": \"MIT\"",
+    "transactionId": "",
+    "err": "Not found"
+  },
+  {
+    "timestamp": null,
+    "loglevel": "    \"author\": \"Start Bootstrap\"",
+    "transactionId": "Start Bootstrap",
+    "err": "Not found"
+  },
+  {
+    "timestamp": null,
+    "loglevel": "    \"contributors\": ",
+    "transactionId": "rs",
+    "err": "Not found"
+  },
+  {
+    "timestamp": null,
+    "loglevel": "        \"David Miller (https://davidmiller.io/)",
+    "transactionId": "Miller (https://davidmiller.io/)",
+    "err": "Not found"
+  },
+  {
+    "timestamp": null,
+    "loglevel": "    ]",
+    "transactionId": "",
+    "err": "Not found"
+  },
+  {
+    "timestamp": null,
+    "loglevel": "    \"repository\": ",
+    "transactionId": "",
+    "err": "Not found"
+  },
+  {
+    "timestamp": null,
+    "loglevel": "        \"type\": \"git\"",
+    "transactionId": " ",
+    "err": "Not found"
+  },
+  {
+    "timestamp": null,
+    "loglevel": "sb",
+    "transactionId": "",
+    "err": "Not found"
+  },
+  {
+    "timestamp": null,
+    "loglevel": "    }",
+    "transactionId": "",
+    "err": "Not found"
+  },
+  {
+    "timestamp": null,
+    "loglevel": "    \"dependencies\": ",
+    "transactionId": "es",
+    "err": "Not found"
+  },
+  {
+    "timestamp": null,
+    "loglevel": "free\": \"5.15.3\"",
+    "transactionId": "wesome/fontawesome-free",
+    "err": "Not found"
+  },
+  {
+    "timestamp": null,
+    "loglevel": "        \"bootstrap\": \"4.6.0\"",
+    "transactionId": "rap",
+    "err": "Not found"
+  },
+  {
+    "timestamp": null,
+    "loglevel": "        \"chart.js\": \"2.9.4\"",
+    "transactionId": "js",
+    "err": "Not found"
+  },
+  {
+    "timestamp": null,
+    "loglevel": "bs4\": \"1.10.24\"",
+    "transactionId": "bles.net-bs4",
+    "err": "Not found"
+  },
+  {
+    "timestamp": null,
+    "loglevel": "        \"jquery\": \"3.6.0\"",
+    "transactionId": "",
+    "err": "Not found"
+  },
+  {
+    "timestamp": null,
+    "loglevel": "        \"jquery.easing\": \"^1.4.1",
+    "transactionId": ".easing",
+    "err": "Not found"
+  },
+  {
+    "timestamp": null,
+    "loglevel": "    }",
+    "transactionId": "",
+    "err": "Not found"
+  },
+  {
+    "timestamp": null,
+    "loglevel": "    \"devDependencies\": ",
+    "transactionId": "ncies",
+    "err": "Not found"
+  },
+  {
+    "timestamp": null,
+    "loglevel": "sync\": \"2.26.14\"",
+    "transactionId": "r-sync",
+    "err": "Not found"
+  },
+  {
+    "timestamp": null,
+    "loglevel": "        \"del\": \"6.0.0\"",
+    "transactionId": "",
+    "err": "Not found"
+  },
+  {
+    "timestamp": null,
+    "loglevel": "        \"gulp\": \"4.0.2\"",
+    "transactionId": " ",
+    "err": "Not found"
+  },
+  {
+    "timestamp": null,
+    "loglevel": "autoprefixer\": \"7.0.1\"",
+    "transactionId": "utoprefixer",
+    "err": "Not found"
+  },
+  {
+    "timestamp": null,
+    "loglevel": "clean",
+    "transactionId": "lean-css",
+    "err": "Not found"
+  },
+  {
+    "timestamp": null,
+    "loglevel": "header\": \"2.0.9\"",
+    "transactionId": "eader",
+    "err": "Not found"
+  },
+  {
+    "timestamp": null,
+    "loglevel": "plumber\": \"^1.2.1\"",
+    "transactionId": "lumber",
+    "err": "Not found"
+  },
+  {
+    "timestamp": null,
+    "loglevel": "rename\": \"2.0.0\"",
+    "transactionId": "ename",
+    "err": "Not found"
+  },
+  {
+    "timestamp": null,
+    "loglevel": "sass\": \"4.1.0\"",
+    "transactionId": "ass",
+    "err": "Not found"
+  },
+  {
+    "timestamp": null,
+    "loglevel": "uglify\": \"3.0.2\"",
+    "transactionId": "glify",
+    "err": "Not found"
+  },
+  {
+    "timestamp": null,
+    "loglevel": "stream\": \"2.0.0",
+    "transactionId": "stream",
+    "err": "Not found"
+  },
+  {
+    "timestamp": null,
+    "loglevel": "    ",
+    "transactionId": "",
+    "err": "Not found"
+  },
+  {
+    "timestamp": null,
+    "loglevel": "",
+    "transactionId": "",
+    "err": "Not found"
+  },
+  {
+    "timestamp": null,
+    "loglevel": "",
+    "transactionId": "",
+    "err": "Not found"
+  }
+]
